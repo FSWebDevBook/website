@@ -15,14 +15,13 @@ const fs = require('fs');
  * 
 */
 
-function reflistToRefmap(fname,chNum) {
-  //console.log("entering reflistToRefmap with fname = " + fname + " & chNum = " + chNum);
+function reflistToRefmap(fname, chNum) {
   let refs = "";
   fs.createReadStream(fname)
   .on('data', (data) => {
     const lines = data.toString().split("\n");
     //console.log("Split file into " + lines.length + " lines.");
-    let refRegex = /\[\d{1,3}\]/; //regex for [xxx]
+    let refRegex = /\[\d{1,2}\.\d{1,3}\]/; //regex for [xxx]
     let urlRegex = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
     for (let i = 0; i < lines.length; ++i) {
       console.log("Processing line " + (i+1) + ": " + lines[i]);
@@ -30,16 +29,15 @@ function reflistToRefmap(fname,chNum) {
       if (refMatch !== null) {
         let urlMatch = urlRegex.exec(lines[i]);
         if (urlMatch !== null) {
-          refs += "refmap['" + chNum + "." + 
-            (refMatch[0].charAt(2) === "]" ? refMatch[0].charAt(1) :  refMatch[0].substr(1,2)) + 
-            "'] = '" + urlMatch[0] + "';\n";
+          let refNum = refMatch[0].substring(1,refMatch[0].indexOf("]"));
+          refs += "refmap['" + refNum + "'] = '" + urlMatch[0] + "';\n";
         } else {
           console.log("Error on line " + i+1 + ": " + lines[i]);
           console.log("Could not find a valid URL. Ignoring...");
         }
       } else {
         console.log("Error on line " + i+1 + ": " + lines[i]);
-        console.log("Could not find a valid reference (e.g., '[1.1]). Ignoring...");
+        console.log("Could not find a valid reference (e.g., '[1.1]'). Ignoring...");
       }
     }
     const outFile = "ch" + chNum + "refs.js";
