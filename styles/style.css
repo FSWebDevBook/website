@@ -13,3 +13,8 @@ h1, h2, h3, p {
     font-style: italic;
     color: red;
 }
+
+.redirect {
+    font-style: italic;
+    color: blue;
+}
