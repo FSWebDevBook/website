@@ -1,0 +1,48 @@
+[4.1]	Pluralsight, “Celebrating 25 Years of JavaScript,” JavaScript.com. https://www.javascript.com/ (accessed Jun. 23, 2021).
+[4.2]	moz://a, “Introduction to Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events (accessed Jun. 22, 2021).
+[4.3]	moz://a, “Event Reference,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Events (accessed Jun. 23, 2021).
+[4.4]	moz:lla, “EventTarget.dispatchEvent(),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/dispatchEvent (accessed Jun. 29, 2021).
+[4.5]	moz://a, “Using the Web Animations API,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API (accessed Jul. 07, 2021).
+[4.6]	moz://a, “Clipboard API,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API (accessed Jul. 07, 2021).
+[4.7]	moz:lla, “Focus Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Element#focus_events (accessed Jul. 07, 2021).
+[4.8]	moz://a, “HTMLFormElement,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement#events (accessed Jul. 07, 2021).
+[4.9]	moz://a, “Document Touch Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document#touch_events (accessed Jul. 07, 2021).
+[4.10]	moz://a, “History API,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/History_API (accessed Jul. 07, 2021).
+[4.11]	“HTMLInputElement,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement#events (accessed Jul. 07, 2021).
+[4.12]	moz://a, “Document Keyboard Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document#keyboard_events (accessed Jul. 07, 2021).
+[4.13]	moz://a, “Media Streams API Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API#events (accessed Jul. 07, 2021).
+[4.14]	moz://a, “Element Mouse Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Element#mouse_events (accessed Jul. 07, 2021).
+[4.15]	moz://a, “Window Connection Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Window#connection_events (accessed Jul. 07, 2021).
+[4.16]	moz://a, “The WebSocket API (WebSockets),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API (accessed Jul. 07, 2021).
+[4.17]	moz://a, “Document Selection Events,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document#selection_events (accessed Jul. 07, 2021).
+[4.18]	moz://a, “Web Speech API,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API (accessed Jul. 07, 2021).
+[4.19]	moz://a, “Introduction to the DOM,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction (accessed Jun. 23, 2021).
+[4.20]	moz://a, “HTMLCollection,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection (accessed Jun. 23, 2021).
+[4.21]	moz://a, “CSS Selectors,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors (accessed Jun. 23, 2021).
+[4.22]	moz://a, “NodeList,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/NodeList (accessed Jun. 23, 2021).
+[4.23]	moz://a, “Event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Event (accessed Jun. 29, 2021).
+[4.24]	moz://a, “Document.” https://developer.mozilla.org/en-US/docs/Web/API/Document (accessed Jun. 29, 2021).
+[4.25]	moz://a, “Event.stopPropagation(),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation (accessed Jun. 29, 2021).
+[4.26]	moz://a, “Document: keypress event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/keypress_event (accessed Jun. 29, 2021).
+[4.27]	moz://a, “Event.preventDefault(),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault (accessed Jun. 29, 2021).
+[4.28]	moz://a, “DOMTokenList.contains(),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/contains
+[4.29]	moz://a, “Element.classList,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Element/classList (accessed Jun. 24, 2021).
+[4.30]	N. Babich, “How Functional Animation Helps Improve user Experience,” Smashing Magazine, Jan. 11, 2017. Accessed: Jun. 24, 2021. [4.Online]. Available: https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/
+[4.31]	moz://a, “Using CSS Transitions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions (accessed Jun. 25, 2021).
+[4.32]	M. King, J. Jemma Ku, J. Nurthen, Z. Bijl, and M. Cooper, Eds., “WAI-ARIA Authoring Practices 1.1.” W3C Working Group, Aug. 14, 2019. Accessed: Jun. 17, 2021. [4.Online]. Available: https://www.w3.org/TR/wai-aria-practices-1.1/
+[4.33]	W3C ARIA Working Group, “Actions Menu Button Example using element.focus(),” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions.html (accessed Jun. 26, 2021).
+[4.34]	moz://a, “Document: Keydown Event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event (accessed Jun. 26, 2021).
+[4.35]	moz:lla, “KeyboardEvent.code,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
+[4.36]	moz:lla, “Document.activeElement,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/activeElement (accessed Jun. 26, 2021).
+[4.37]	“Are Global Variables Bad?,” Stack Overflow, Jan. 27, 2009. https://stackoverflow.com/questions/484635/are-global-variables-bad (accessed Jun. 30, 2021).
+[4.38]	“How to Avoid Global Variables in JavaScript?,” Stack Overflow, Dec. 03, 2009. https://stackoverflow.com/questions/1841916/how-to-avoid-global-variables-in-javascript (accessed Jun. 30, 2021).
+[4.39]	moz://a, “HTMLElement.focus,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/focus (accessed Jun. 30, 2021).
+[4.40]	“Is There an Expression Using Modulo To Do Backwards Wrap-Around (‘Reverse Overflow’)?,” Stack Overflow, Feb. 09, 2013. https://stackoverflow.com/questions/14785443/is-there-an-expression-using-modulo-to-do-backwards-wrap-around-reverse-overfl (accessed Jun. 30, 2021).
+[4.41]	moz://a, ::“-moz-focus-inner,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-focus-inner (accessed Jun. 30, 2021).
+[4.42]	“CSS The !Important Rule,” w3schools.com: The World’s Largest Web Developer Site. https://www.w3schools.com/css/css_important.asp (accessed Jun. 30, 2021).
+[4.43]	W3C Working Group, “Example of Tabs with Manual Activation,” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/tabs/tabs-2/tabs.html (accessed Jun. 16, 2021).
+[4.44]	moz://a, “Arrow Function Expressions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions (accessed Jul. 01, 2021).
+[4.45]	T. Fessenden, “Modal & Nonmodal Dialogs: When (& When Not) to Use Them,” Nielsen Norman Group, Apr. 23, 2017. https://www.nngroup.com/articles/modal-nonmodal-dialog/ (accessed Jul. 06, 2021).
+[4.46]	“Modal Dialog Example,” WAI ARIA Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html (accessed Jul. 06, 2021).
+[4.47]	“Design Patterns and Widgets,” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex (accessed Jul. 07, 2021).
+[4.48]	C. Hundhausen, “FSWebDevBook/speedscore-book (ch4 branch),” GitHub. https://github.com/FSWebDevBook/speedscore-book/tree/ch4 (accessed Jul. 07, 2021).
