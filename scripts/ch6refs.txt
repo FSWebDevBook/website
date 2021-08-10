@@ -1,0 +1,44 @@
+[6.1]	S. Blanton, “What is User Management?,” jumpcloud, Mar. 02, 2021. https://jumpcloud.com/blog/what-is-user-management (accessed Jul. 09, 2021).
+[6.2]	moz://a, “Web Storage API,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API (accessed Jul. 09, 2021).
+[6.3]	J. Johnson, Designing with the Mind in Mind, 3rd ed. Cambridge, MA: Morgan Kaufmann, 2021. [Online]. Available: https://www.elsevier.com/books/designing-with-the-mind-in-mind/johnson/978-0-12-818202-4
+[6.4]	“Associative Array in JavaScript,” XUL. https://www.xul.fr/javascript/associative.php (accessed Jul. 13, 2021).
+[6.5]	moz://a, “Storage.setItem() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem (accessed Jul. 14, 2021).
+[6.6]	moz://a, “Storage.getItem() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem (accessed Jul. 14, 2021).
+[6.7]	“JavaScript Strings,” w3schools.com. https://www.w3schools.com/js/js_strings.asp (accessed Jul. 13, 2021).
+[6.8]	moz://a, “typeof - JavaScript | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof (accessed Jul. 13, 2021).
+[6.9]	“JavaScript Number() Function,” w3schools.com. https://www.w3schools.com/jsref/jsref_number.asp (accessed Jul. 13, 2021).
+[6.10]	“JavaScript Arrays,” w3schools.com. https://www.w3schools.com/js/js_arrays.asp (accessed Jul. 13, 2021).
+[6.11]	“JavaScript Objects,” w3schools.com. https://www.w3schools.com/js/js_objects.asp (accessed Jul. 13, 2021).
+[6.12]	“Introducing JSON,” json.org. https://www.json.org/json-en.html (accessed Jul. 13, 2021).
+[6.13]	moz://a, “JSON.stringify() - JavaScript | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify (accessed Jul. 27, 2021).
+[6.14]	moz://a, “JSON.parse() - JavaScript | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse (accessed Jul. 27, 2021).
+[6.15]	moz://a, “Window.alert() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Window/alert (accessed Jul. 14, 2021).
+[6.16]	“Chrome DevTools,” Chrome Developers. https://developer.chrome.com/docs/devtools/ (accessed Aug. 10, 2021).
+[6.17]	moz://a, “Logical AND (&&) - JavaScript | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND (accessed Jul. 27, 2021).
+[6.18]	moz://a, “url() - CSS: Cascading Style Sheets | MDN,” MDN Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/url() (accessed Jul. 29, 2021).
+[6.19]	moz://a, “Data URLs - HTTP | MDN,” MDN Docs. https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs (accessed Jul. 29, 2021).
+[6.20]	A. Altvater, “What are CRUD Operations: How CRUD Operations Work, Examples, Tutorials & More,” Stackify, May 02, 2017. https://stackify.com/what-are-crud-operations/ (accessed Jul. 09, 2021).
+[6.21]	M. King, J. Jemma Ku, J. Nurthen, Z. Bijl, and M. Cooper, Eds., “Accordion (Sections with Show/Hide Functionality),” in WAI-ARIA Authoring Practices 1.1, W3C Working Group, 2019. Accessed: Jun. 17, 2021. [Online]. Available: https://www.w3.org/TR/wai-aria-practices-1.1/#accordion
+[6.22]	“Accordion,” Bootstrap 5.0. https://getbootstrap.com/docs/5.0/components/accordion/ (accessed Jul. 29, 2021).
+[6.23]	“Introduction,” Bootstrap 5.0. https://getbootstrap.com/docs/5.0/getting-started/introduction/ (accessed Jul. 29, 2021).
+[6.24]	“Accordion Example,” Bootstrap 5.0. https://getbootstrap.com/docs/5.0/components/accordion/#example (accessed Jul. 29, 2021).
+[6.25]	moz://a, “HTML attribute: readonly - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/readonly (accessed Jul. 30, 2021).
+[6.26]	moz://a, “<input type=”month”> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/month (accessed Jul. 30, 2021).
+[6.27]	moz://a, “<input type=”checkbox”> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox (accessed Jul. 30, 2021).
+[6.28]	“Modular Approach in Programming,” GeeksforGeeks, Sep. 07, 2018. https://www.geeksforgeeks.org/modular-approach-in-programming/ (accessed Jul. 30, 2021).
+[6.29]	“3 Ways to Concatenate Strings in JavaScript,” Mastering JS. https://masteringjs.io/tutorials/fundamentals/string-concat (accessed Aug. 10, 2021).
+[6.30]	“Font Awesome Animating Icons.” https://fontawesome.com/v5.15/how-to-use/on-the-web/styling/animating-icons (accessed Jul. 20, 2021).
+[6.31]	“Sign In Alt Icon | FontAwesome.” https://fontawesome.com/v5.15/icons/sign-in-alt?style=solid (accessed Jul. 20, 2021).
+[6.32]	“Accessible Loading Indicators—with No Extra Elements!,” DockYard. https://dockyard.com/blog/2020/03/02/accessible-loading-indicatorswith-no-extra-elements (accessed Jul. 20, 2021).
+[6.33]	“Window setTimeout() Method,” w3schools.com. https://www.w3schools.com/jsref/met_win_settimeout.asp (accessed Jul. 21, 2021).
+[6.34]	moz://a, “Document.querySelectorAll() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll (accessed Aug. 10, 2021).
+[6.35]	R. Degges, “Please Stop Using Local Storage,” Randall Degges: Random Thoughts of a Happy Programmer. https://www.rdegges.com/2018/please-stop-using-local-storage/ (accessed Aug. 10, 2021).
+[6.36]	moz://a, “Arrow Function Expressions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions (accessed Jul. 01, 2021).
+[6.37]	C. Hundhausen, SpeedScore Source Code. 2021. Accessed: Jun. 11, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore-book/
+[6.38]	moz://a, “<select>: The HTML Select element - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select (accessed Aug. 10, 2021).
+[6.39]	moz://a, “HTML Drag and Drop API - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API (accessed Aug. 10, 2021).
+[6.40]	D. Lemon, “Dev.Opera — Accessible Drag and Drop Using WAI-ARIA,” Dev.Opera, Jul. 08, 2009. https://dev.opera.com/articles/accessible-drag-and-drop/ (accessed Aug. 10, 2021).
+[6.41]	G. Lemon, “Drag and Drop Example,” Jul. 08, 2009. https://dev.opera.com/articles/accessible-drag-and-drop/example.html (accessed Aug. 10, 2021).
+[6.42]	“Modal,” Bootstrap 5.0. https://getbootstrap.com/docs/5.0/components/modal/ (accessed Jul. 21, 2021).
+[6.43]	“Toast Notifications | PatternFly,” PatternFly. https://www.patternfly.org/v3/pattern-library/communication/toast-notifications/index.html (accessed Jul. 23, 2021).
+[6.44]	moz://a, “<input type=”radio”> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio (accessed Aug. 10, 2021).
