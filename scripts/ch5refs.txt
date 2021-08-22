@@ -1,46 +1,56 @@
-[5.1]	“Glossary: Horizontal and Vertical Prototypes,” Usability First. https://www.usabilityfirst.com/glossary/horizontal-and-vertical-prototypes/index.html (accessed Jul. 09, 2021).
-[5.2]	A. Altvater, “What are CRUD Operations: How CRUD Operations Work, Examples, Tutorials & More,” Stackify, May 02, 2017. https://stackify.com/what-are-crud-operations/ (accessed Jul. 09, 2021).
-[5.3]	“Web Content Accessibility Guidelines (WCAG) 2.1,” w3.org, Jun. 05, 2018. https://www.w3.org/TR/WCAG21/ (accessed Jul. 13, 2021).
-[5.4]	moz://a, “<input>: The Input (Form Input) Element,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input (accessed Jul. 09, 2021).
-[5.5]	“HTML5 Basics For Everyone Tired Of Reading About Deprecated Code,” HTML.COM. https://html.com/html5/ (accessed Jul. 09, 2021).
-[5.6]	“Data Record,” Dictionary of Archives Terminology. https://dictionary.archivists.org/entry/data-record.html (accessed Jul. 11, 2021).
-[5.7]	moz://a, “<form>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form (accessed Jul. 11, 2021).
-[5.8]	moz://a, “<fieldset>: The Field Set element - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset (accessed Jul. 13, 2021).
-[5.9]	moz://a, “<legend> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend (accessed Jul. 13, 2021).
-[5.10]	moz://a, “<label> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label (accessed Jul. 13, 2021).
-[5.11]	“Question Pages,” GOV.UK Design System. https://design-system.service.gov.uk/patterns/question-pages/ (accessed Jul. 13, 2021).
-[5.12]	“HTML <input> Placeholder Attribute,” w3schools. https://www.w3schools.com/tags/att_input_placeholder.asp (accessed Jul. 11, 2021).
-[5.13]	E. Bailey, “Don’t Use the Placeholder Attribute,” Smashing Magazine, May 20, 2018. Accessed: Jul. 11, 2021. [5.Online]. Available: https://www.smashingmagazine.com/2018/06/placeholder-attribute/
-[5.14]	“HTML <input> value Attribute,” w3schools.com. https://www.w3schools.com/tags/att_input_value.asp (accessed Jul. 14, 2021).
-[5.15]	P. Laubheimer, “Preventing User Errors: Avoiding Unconscious Slips,” Nielsen Norman Group, Aug. 23, 2015. https://www.nngroup.com/articles/slips/ (accessed Jul. 11, 2021).
-[5.16]	“Provide Helpful Error Messages,” Digital Accessibility at Harvard University. https://accessibility.huit.harvard.edu/provide-helpful-error-messages (accessed Jul. 11, 2021).
-[5.17]	K. Kwiatek, “UX Principles: Constraints, Discoverability, Feedback, and More,” Zivtech, Mar. 19, 2019. https://www.zivtech.com/blog/ux-principles-constraints-discoverability-feedback-and-more (accessed Jul. 11, 2021).
-[5.18]	moz://a, “<input type=”date”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date (accessed Jul. 12, 2021).
-[5.19]	moz://a, “Constraint Validation Process,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation#constraint_validation_process (accessed Jul. 12, 2021).
-[5.20]	moz://a, “HTMLFormElement: Submit Event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event (accessed Jul. 11, 2021).
-[5.21]	moz://a, “Using Built-In Form Validation,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#using_built-in_form_validation (accessed Jul. 12, 2021).
-[5.22]	moz://a, “Regular Expressions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions (accessed Jul. 12, 2021).
-[5.23]	G. Skinner, RegExr.com. https://regexr.com/ (accessed Jul. 12, 2021).
-[5.24]	moz://a, “<input type=”url”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/url (accessed Jul. 12, 2021).
-[5.25]	moz://a, “<input type=”email”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email (accessed Jul. 12, 2021).
-[5.26]	moz://a, :“invalid - CSS: Cascading Style Sheets | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid (accessed Jul. 12, 2021).
-[5.27]	“WebAIM: Usable and Accessible Form Validation and Error Recovery,” WebAIM (Web Accessibility in Mind). https://webaim.org/techniques/formvalidation/ (accessed Jul. 13, 2021).
-[5.28]	“Recover from validation errors,” GOV.UK Design System. https://design-system.service.gov.uk/patterns/validation/ (accessed Jul. 13, 2021).
-[5.29]	“Bootstrap.” https://getbootstrap.com/ (accessed Jul. 16, 2021).
-[5.30]	M. Otto, “Building Twitter Bootstrap,” A List Apart, Jan. 17, 2012. https://alistapart.com/article/building-twitter-bootstrap/ (accessed Jul. 24, 2021).
-[5.31]	“Spacing.” https://getbootstrap.com/docs/4.4/utilities/spacing/ (accessed Jul. 16, 2021).
-[5.32]	“Forms.” https://getbootstrap.com/docs/4.0/components/forms/ (accessed Jul. 16, 2021).
-[5.33]	moz://a, “ValidityState - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/ValidityState (accessed Jul. 20, 2021).
-[5.34]	“Google.” https://www.google.com/ (accessed Jul. 20, 2021).
-[5.35]	“Facebook - Log In or Sign Up,” Facebook. https://www.facebook.com/ (accessed Jul. 20, 2021).
-[5.36]	“Sign in to GitHub,” GitHub. https://github.com (accessed Jul. 20, 2021).
-[5.37]	“Apple Store Online,” Apple. https://www.apple.com/shop (accessed Jul. 20, 2021).
-[5.38]	“Buttons.” https://getbootstrap.com/docs/4.0/components/buttons/ (accessed Jul. 20, 2021).
-[5.39]	“Navs.” https://getbootstrap.com/docs/4.0/components/navs/ (accessed Jul. 20, 2021).
-[5.40]	“Modal,” Bootstrap 5.0. https://getbootstrap.com/docs/5.0/components/modal/ (accessed Jul. 21, 2021).
-[5.41]	moz://a, “<input type=”file”> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file (accessed Jul. 23, 2021).
-[5.42]	moz://a, “File - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/File (accessed Jul. 23, 2021).
-[5.43]	“Modal Dialog Example,” WAI ARIA Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html (accessed Jul. 06, 2021).
-[5.44]	“Toast Notifications | PatternFly,” PatternFly. https://www.patternfly.org/v3/pattern-library/communication/toast-notifications/index.html (accessed Jul. 23, 2021).
-[5.45]	moz://a, “Node.contains() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Node/contains (accessed Jul. 24, 2021).
-[5.46]	“Toasts,” Get Bootstrap. https://getbootstrap.com/docs/5.0/components/toasts/ (accessed Jul. 24, 2021).
+[5.1]	A. B. Abhi, “Test Code before Development (TDD). | Codementor,” Codementor. https://www.codementor.io/@abhishake/test-code-before-development-tdd-i0lm2ctjc (accessed Aug. 11, 2021).
+[5.2]	“Cross-Browser End-to-End Testing Framework | TestСafe,” Test Cafe. https://testcafe.io/ (accessed Aug. 11, 2021).
+[5.3]	“axe: Accessibility Testing Tools and Software,” Deque. https://www.deque.com/axe/ (accessed Aug. 11, 2021).
+[5.4]	“20 Best Web Testing Tools | Application Testing Software in 2021,” Guru99. https://www.guru99.com/top-20-web-testing-tools.html (accessed Aug. 11, 2021).
+[5.5]	“Software Testing Fundamentals (STF) !,” SOFTWARE TESTING Fundamentals. https://softwaretestingfundamentals.com/ (accessed Aug. 12, 2021).
+[5.6]	“4 Reasons Why Software Testing is Important,” TestDevLab Blog, Jul. 03, 2018. https://www.testdevlab.com/blog/2018/07/importance-of-software-testing/ (accessed Aug. 12, 2021).
+[5.7]	“Functional Testing Vs Non-Functional Testing: What’s the Difference?,” Guru99. https://www.guru99.com/functional-testing-vs-non-functional-testing.html (accessed Aug. 11, 2021).
+[5.8]	E. Elliot, “JavaScript Testing: Unit vs Functional vs Integration Tests - SitePoint,” Apr. 25, 2016. https://www.sitepoint.com/javascript-testing-unit-functional-integration/ (accessed Aug. 11, 2021).
+[5.9]	C. Toler, “White Box vs. Black Box: A Basic Overview of Software Testing | SingleMind,” SingleMind, Aug. 10, 2020. https://www.singlemindconsulting.com/blog/white-box-vs-black-box/ (accessed Aug. 11, 2021).
+[5.10]	“Accessibility Testing - Should it be considered functional testing or non functional testing?,” Software Quality Assurance & Testing Stack Exchange. https://sqa.stackexchange.com/questions/1399/accessibility-testing-should-it-be-considered-functional-testing-or-non-functi (accessed Aug. 11, 2021).
+[5.11]	M. King, J. Jemma Ku, J. Nurthen, Z. Bijl, and M. Cooper, Eds., “Design Patterns and Widgets,” in WAI-ARIA Authoring Practices 1.1, W3C Working Group, 2019. Accessed: Jun. 17, 2021. [Online]. Available: https://www.w3.org/TR/wai-aria-practices-1.1/
+[5.12]	“User Testing 101: The Complete Guide in 2020 // Qualtrics,” Qualtrics. https://www.qualtrics.com/experience-management/customer/user-testing-guide/ (accessed Aug. 11, 2021).
+[5.13]	“Storybook: UI component explorer for frontend developers.” https://storybook.js.org (accessed Aug. 13, 2021).
+[5.14]	K. Beck, Test Driven Development: By Example, 1st edition. Boston: Addison-Wesley Professional, 2002.
+[5.15]	“What is Test Driven Development (TDD)?,” Agile Alliance, Dec. 06, 2015. https://www.agilealliance.org/glossary/tdd/ (accessed Aug. 11, 2021).
+[5.16]	R. Jeffries and G. Melnik, “Guest Editors’ Introduction: TDD—The Art of Fearless Programming,” IEEE Softw., vol. 24, no. 03, pp. 24–30, May 2007, doi: 10.1109/MS.2007.75.
+[5.17]	E. Elliott, “The Outrageous Cost of Skipping TDD & Code Reviews,” JavaScript Scene, Jan. 27, 2019. https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412 (accessed Aug. 11, 2021).
+[5.18]	“Advantages of Test Driven Development,” :codica. https://www.codica.com/blog/test-driven-development-benefits/ (accessed Aug. 11, 2021).
+[5.19]	Brian, “Best Automation Testing Tools for 2021 (Top 15 reviews),” Medium, Feb. 04, 2021. https://briananderson2209.medium.com/best-automation-testing-tools-for-2018-top-10-reviews-8a4a19f664d2 (accessed Aug. 13, 2021).
+[5.20]	“Selenium,” Selenium. https://www.selenium.dev/ (accessed Aug. 13, 2021).
+[5.21]	“The Good and the Bad of Selenium Test Automation Software,” AltexSoft. https://www.altexsoft.com/blog/engineering/the-good-and-the-bad-of-selenium-test-automation-tool/ (accessed Aug. 13, 2021).
+[5.22]	“selenium-webdriver,” Selenium. https://www.selenium.dev/selenium/docs/api/javascript/index.html (accessed Aug. 13, 2021).
+[5.23]	“BDD Testing & Collaboration Tools for Teams | Cucumber.” https://cucumber.io/ (accessed Aug. 13, 2021).
+[5.24]	W. Project, “Watir Project.” http://watir.com/ (accessed Aug. 13, 2021).
+[5.25]	“JavaScript End to End Testing Framework,” JavaScript End to End Testing Framework | cypress.io. https://www.cypress.io/ (accessed Aug. 13, 2021).
+[5.26]	“Fast and reliable end-to-end testing for modern web apps | Playwright.” https://playwright.dev/ (accessed Aug. 13, 2021).
+[5.27]	E. Kurt, “Which Automation Tool is the Best: Selenium Web Driver| Cypress | WebdriverIO | TestCafe |…,” CodeX, Aug. 13, 2021. https://medium.com/codex/which-automation-tool-is-the-best-selenium-cypress-webdriverio-testcafe-playwright-c56c6f22df1f (accessed Aug. 13, 2021).
+[5.28]	 sophie comsysto, “Cypress vs. Testcafé,” Medium, Mar. 10, 2021. https://medium.com/comsystoreply/cypress-vs-testcaf%C3%A9-3b26cfb803f3 (accessed Aug. 13, 2021).
+[5.29]	T. Rhodes, “Evaluating Cypress and TestCafe for end to end testing | YLD Blog,” YLD, Mar. 29, 2018. https://www.yld.io/blog/evaluating-cypress-and-testcafe-end-to-end-testing/ (accessed Aug. 11, 2021).
+[5.30]	“Browsers | Concepts | Guides | Docs.” https://testcafe.io/documentation/402828/guides/concepts/browsers (accessed Aug. 13, 2021).
+[5.31]	“axe Rules 4.3,” Deque University. https://dequeuniversity.com/rules/axe/4.3 (accessed Aug. 13, 2021).
+[5.32]	“axe-testcafe,” npm. https://www.npmjs.com/package/axe-testcafe (accessed Aug. 13, 2021).
+[5.33]	Node.js, “Node.js,” Node.js. https://nodejs.org/en/ (accessed Aug. 13, 2021).
+[5.34]	S. Nguyen, “What is npm? A Node Package Manager Tutorial for Beginners,” freeCodeCamp.org, Jul. 16, 2020. https://www.freecodecamp.org/news/what-is-npm-a-node-package-manager-tutorial-for-beginners/ (accessed Aug. 13, 2021).
+[5.35]	“npm.” https://www.npmjs.com/ (accessed Aug. 13, 2021).
+[5.36]	J. Gerend, “PowerShell.” https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/powershell (accessed Aug. 21, 2021).
+[5.37]	“Introducing the Shell – Introduction to the Command Line for Genomics.” https://datacarpentry.org/shell-genomics/01-introduction/ (accessed Aug. 22, 2021).
+[5.38]	“Chrome Web Store - Extensions.” https://chrome.google.com/webstore/category/extensions (accessed Aug. 13, 2021).
+[5.39]	“The package.json guide.” https://nodejs.dev/learn/the-package-json-guide (accessed Aug. 13, 2021).
+[5.40]	“package-lock.json | npm Docs.” https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json (accessed Aug. 13, 2021).
+[5.41]	“folders | npm Docs.” https://docs.npmjs.com/cli/v7/configuring-npm/folders#node-modules (accessed Aug. 13, 2021).
+[5.42]	“Git - gitignore Documentation.” https://git-scm.com/docs/gitignore (accessed Aug. 13, 2021).
+[5.43]	“Selector Object | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402666/reference/test-api/selector (accessed Aug. 21, 2021).
+[5.44].	“click() | TestController | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402710/reference/test-api/testcontroller/click (accessed Aug. 21, 2021).
+[5.45].	“expect() | TestController | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402702/reference/test-api/testcontroller/expect (accessed Aug. 21, 2021).
+[5.46].	“page() | Fixture Class | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402778/reference/test-api/fixture/page (accessed Aug. 21, 2021).
+[5.47]	“Assertion Testing,” TutorialsPoint. https://www.tutorialspoint.com/software_testing_dictionary/assertion_testing.htm (accessed Aug. 21, 2021).
+[5.48]	“DOMNodeState Object | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402670/reference/test-api/domnodestate (accessed Aug. 21, 2021).
+[5.49].	“expect.contains() | TestController | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402729/reference/test-api/testcontroller/expect/contains (accessed Aug. 21, 2021).
+[5.50].	“expect.notContains() | TestController | Test API | Reference | Docs,” TestCafe Docs. https://testcafe.io/documentation/402722/reference/test-api/testcontroller/expect/notcontains (accessed Aug. 21, 2021).
+[5.51]	“Assert | Basic Guides | Guides | Docs,” TestCafe Docs. https://testcafe.io/documentation/402837/guides/basic-guides/assert (accessed Aug. 21, 2021).
+[5.52]	“Web Content Accessibility Guidelines (WCAG) 2.1,” w3.org, Jun. 05, 2018. https://www.w3.org/TR/WCAG21/ (accessed Jul. 13, 2021).
+[5.53]	“HTML Sectioning Elements: ARIA Landmarks Example.” https://www.w3.org/TR/wai-aria-practices/examples/landmarks/HTML5.html (accessed Aug. 22, 2021).
+[5.54]	“Text elements must have sufficient color contrast against the background Axe Rules | Deque University | Deque Systems,” Deque University. https://dequeuniversity.com/rules/axe/4.3/color-contrast?application=AxeChrome (accessed Aug. 21, 2021).
+[5.55]	“LICEcap: Simple animated screen captures,” Cockos Incorporated | LICEcap. https://www.cockos.com/licecap/ (accessed Aug. 21, 2021).
+[5.56]	C. Hundhausen, SpeedScore Source Code. 2021. Accessed: Jun. 11, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore-book/
