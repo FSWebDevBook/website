@@ -1,0 +1,80 @@
+[1.1]	“CBS Sports 2012 Speedgolf World Championship - YouTube.” https://www.youtube.com/watch?app=desktop&v=5NJr3bhI1WI (accessed Sep. 08, 2021).
+[1.2]	“SpeedScore 5 Guide to Setting Up A Tournament.pdf - Google Drive.” https://drive.google.com/file/d/1N95LSH2DdzsRDyegAZ52tyA87fc9QR6P/view?usp=drive_open (accessed Sep. 08, 2021).
+[1.3]	C. D. Hundhausen, SpeedScore App. Pullman, WA: Washington State University, 2022. Accessed: Jan. 05, 2022. [Online]. Available: https://www.speedscore.com
+[1.4]	“Facebook – log in or sign up,” Facebook. https://www.facebook.com/ (accessed Sep. 08, 2021).
+[1.5]	Oracle, “What is a database?,” oracle.com. https://www.oracle.com/database/what-is-database/ (accessed Jan. 05, 2022).
+[1.6]	“HTML Standard.” https://html.spec.whatwg.org/ (accessed Sep. 08, 2021).
+[1.7]	“Cascading Style Sheets.” https://www.w3.org/Style/CSS/Overview.en.html (accessed Sep. 09, 2021).
+[1.8]	“JavaScript.com.” https://www.javascript.com/ (accessed Sep. 09, 2021).
+[1.9]	“Ruby on Rails | A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.” https://rubyonrails.org/ (accessed Sep. 09, 2021).
+[1.10]	“Welcome to Flask — Flask Documentation (2.0.x).” https://flask.palletsprojects.com/en/2.0.x/ (accessed Sep. 09, 2021).
+[1.11]	“What is a Relational Database Management System?,” Codecademy. https://www.codecademy.com/articles/what-is-rdbms-sql (accessed Sep. 09, 2021).
+[1.12]	“What Is a Document Database?” https://aws.amazon.com/nosql/document/ (accessed Sep. 09, 2021).
+[1.13]	“Sass: Syntactically Awesome Style Sheets.” https://sass-lang.com/ (accessed Jan. 05, 2022).
+[1.14]	J. F.- js.foundation, “jQuery.” https://jquery.com/ (accessed Jan. 05, 2022).
+[1.15]	“Bootstrap · The most popular HTML, CSS, and JS library in the world.” https://getbootstrap.com/ (accessed Sep. 09, 2021).
+[1.16]	“React – A JavaScript library for building user interfaces.” https://reactjs.org/ (accessed Sep. 09, 2021).
+[1.17]	“Vue.js.” https://vuejs.org/ (accessed Jan. 05, 2022).
+[1.18]	“Comparison with Other Frameworks — Vue.js.” https://vuejs.org/v2/guide/comparison.html (accessed Jan. 05, 2022).
+[1.19]	“Material Design,” Material Design. https://material.io/develop/web (accessed Jan. 05, 2022).
+[1.20]	“Angular.” https://angular.io/ (accessed Jan. 05, 2022).
+[1.21]	“PHP: Hypertext Preprocessor.” https://www.php.net/ (accessed Jan. 05, 2022).
+[1.22]	“ASP.NET | Open-source web framework for .NET,” Microsoft. https://dotnet.microsoft.com/en-us/apps/aspnet (accessed Jan. 05, 2022).
+[1.23]	“Spring Boot.” https://spring.io/projects/spring-boot (accessed Jan. 05, 2022).
+[1.24]	“The web framework for perfectionists with deadlines | Django,” Django. https://www.djangoproject.com/ (accessed Jan. 05, 2022).
+[1.25]	Node.js, “Node.js,” Node.js. https://nodejs.org/en/ (accessed Sep. 09, 2021).
+[1.26]	“Express - Node.js web application framework.” https://expressjs.com/ (accessed Sep. 09, 2021).
+[1.27]	“MySQL.” https://www.mysql.com/ (accessed Jan. 05, 2022).
+[1.28]	“The most popular database for modern apps | MongoDB.” https://www.mongodb.com/ (accessed Sep. 09, 2021).
+[1.29]	“Amazon RDS | Cloud Relational Database | Amazon Web Services,” Amazon Web Services, Inc. https://aws.amazon.com/rds/ (accessed Jan. 05, 2022).
+[1.30]	“Firebase,” Firebase. https://firebase.google.com/ (accessed Jan. 05, 2022).
+[1.31]	“Responsive web design basics,” web.dev. https://web.dev/responsive-web-design-basics/ (accessed Sep. 09, 2021).
+[1.32]	“Stack Overflow Developer Survey 2020,” Stack Overflow. https://insights.stackoverflow.com/survey/2020/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2020 (accessed Sep. 08, 2021).
+[1.33]	“Soft Skills for Software Developers - Ultimate Guide - Point Jupiter,” Point Jupiter - Web development & UX design agency, Jun. 07, 2019. https://pointjupiter.com/soft-skills-software-developer-need-ultimate-guide/ (accessed Sep. 09, 2021).
+[1.34]	“Collaborative Web Development [1.Book].” https://www.oreilly.com/library/view/collaborative-web-development/9781491996096/ (accessed Sep. 09, 2021).
+[1.35]	“How Many People With Disabilities Use My Website? | Mightybytes.” https://www.mightybytes.com/blog/how-many-users-with-disabilities-on-site/ (accessed Sep. 09, 2021).
+[1.36]	“Screen Readers | American Foundation for the Blind.” https://www.afb.org/blindness-and-low-vision/using-technology/assistive-technology-products/screen-readers (accessed Sep. 09, 2021).
+[1.37]	“Screen Magnification Systems,” The American Foundation for the Blind. https://www.afb.org/node/16207/screen-magnification-systems (accessed Sep. 09, 2021).
+[1.38]	W. W. A. Initiative (WAI), “Speech Recognition,” Web Accessibility Initiative (WAI), Sep. 07, 2021. https://www.w3.org/WAI/perspective-videos/voice/ (accessed Sep. 09, 2021).
+[1.39]	“WebAIM: Keyboard Accessibility.” https://webaim.org/techniques/keyboard/ (accessed Sep. 09, 2021).
+[1.40]	“Disability & Socioeconomic Status.” https://www.apa.org/pi/ses/resources/publications/disability (accessed Sep. 09, 2021).
+[1.41]	W. W. A. Initiative (WAI), “The Business Case for Digital Accessibility,” Web Accessibility Initiative (WAI). https://www.w3.org/WAI/business-case/ (accessed Sep. 09, 2021).
+[1.42]	W. W. A. Initiative (WAI), “Web Accessibility Laws & Policies,” Web Accessibility Initiative (WAI), Sep. 07, 2021. https://www.w3.org/WAI/policies/ (accessed Sep. 09, 2021).
+[1.43]	“Websites Fail to Comply With Accessibility for People With Disabilities.” https://www.isemag.com/2020/11/telecom-98-percent-of-websites-fail-to-comply-with-accessibility-requirements-for-people-with-disabilities/ (accessed Sep. 09, 2021).
+[1.44]	W. W. A. Initiative (WAI), “Web Content Accessibility Guidelines (WCAG) Overview,” Web Accessibility Initiative (WAI). https://www.w3.org/WAI/standards-guidelines/wcag/ (accessed Sep. 09, 2021).
+[1.45]	“Bottom navigation - Material Design.” https://material.io/components/bottom-navigation (accessed Sep. 09, 2021).
+[1.46]	“Example of Tabs with Manual Activation | WAI-ARIA Authoring Practices 1.1.” https://www.w3.org/TR/wai-aria-practices/examples/tabs/tabs-2/tabs.html (accessed Sep. 09, 2021).
+[1.47]	W. L. in R.-B. U. Experience, “Usability 101: Introduction to Usability,” Nielsen Norman Group. https://www.nngroup.com/articles/usability-101-introduction-to-usability/ (accessed Sep. 09, 2021).
+[1.48]	“Good UX Is Good Business: How To Reap Its Benefits.” https://www.forbes.com/sites/forbestechcouncil/2015/11/19/good-ux-is-good-business-how-to-reap-its-benefits/?sh=1a93c49b4e51 (accessed Sep. 09, 2021).
+[1.49]	“What is User Centered Design?,” The Interaction Design Foundation. https://www.interaction-design.org/literature/topics/user-centered-design (accessed Sep. 09, 2021).
+[1.50]	A. S. for P. Affairs, “Usability Testing,” Nov. 13, 2013. https://www.usability.gov/how-to-and-tools/methods/usability-testing.html (accessed Sep. 09, 2021).
+[1.51]	A. S. for P. Affairs, “Home,” Jul. 18, 2013. https://www.usability.gov/ (accessed Sep. 09, 2021).
+[1.52]	W. L. in R.-B. U. Experience, “Visibility of System Status,” Nielsen Norman Group. https://www.nngroup.com/articles/visibility-system-status/ (accessed Sep. 09, 2021).
+[1.53]	“Useful, Usable, and Used: Why They Matter to Designers,” The Interaction Design Foundation. https://www.interaction-design.org/literature/article/useful-usable-and-used-why-they-matter-to-designers (accessed Sep. 09, 2021).
+[1.54]	D. H. Mortensen, “User Research: What It Is and Why You Should Do It,” The Interaction Design Foundation. https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it (accessed Sep. 09, 2021).
+[1.55]	“What is User Story?” https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story/ (accessed Sep. 09, 2021).
+[1.56]	“User Research Basics | Usability.gov.” https://www.usability.gov/what-and-why/user-research.html (accessed Sep. 09, 2021).
+[1.57]	Ashwini, “How to Write Test Cases: The Ultimate Guide with Examples,” Software Testing Help, Jul. 12, 2007. https://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/ (accessed Jan. 05, 2022).
+[1.58]	“Acceptance Criteria: Purposes, Types, Examples and Best Practices | AltexSoft.” https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices/ (accessed Sep. 09, 2021).
+[1.59]	“Black Box Testing,” SOFTWARE TESTING Fundamentals, Feb. 19, 2012. https://softwaretestingfundamentals.com/black-box-testing/ (accessed Jan. 05, 2022).
+[1.60]	“Cross-Browser End-to-End Testing Framework | TestСafe.” https://testcafe.io/ (accessed Sep. 09, 2021).
+[1.61]	“What is CI/CD? Continuous integration and continuous delivery explained | InfoWorld.” https://www.infoworld.com/article/3271126/what-is-cicd-continuous-integration-and-continuous-delivery-explained.html (accessed Sep. 09, 2021).
+[1.62]	“Visual Studio Code - Code Editing. Redefined.” https://code.visualstudio.com/ (accessed Sep. 09, 2021).
+[1.63]	“Visual Studio Code Introductory Videos.” https://code.visualstudio.com/docs/getstarted/introvideos (accessed Sep. 09, 2021).
+[1.64]	“Basic Editing in Visual Studio Code.” https://code.visualstudio.com/docs/editor/codebasics (accessed Sep. 09, 2021).
+[1.65]	Atlassian, “What is version control | Atlassian Git Tutorial,” Atlassian. https://www.atlassian.com/git/tutorials/what-is-version-control (accessed Jan. 05, 2022).
+[1.66]	“98.png.php (695×130).” http://atom.smasher.org/error/98.png.php?icon=garbage2&style=98&title=Windows+is+a+piece+of+crap&text=Windows+is+a+piece+of+crap+and+will+now+destroy+this+computer.+Please+select+which+way+Windows+should+nuke+your+computer.&b1=Erase+my+harddrive&b2=Short-circuit+my+power+supply&b3=Melt+my+motherboard (accessed Sep. 09, 2021).
+[1.67]	“Git Quick Start Guide | Linux Journal.” https://www.linuxjournal.com/content/git-quick-start-guide (accessed Sep. 09, 2021).
+[1.68]	“Build software better, together,” GitHub. https://github.com (accessed Jan. 05, 2022).
+[1.69]	“Mastering Issues · GitHub Guides.” https://guides.github.com/features/issues/ (accessed Sep. 09, 2021).
+[1.70]	Atlassian, “What is a Kanban Board?,” Atlassian. https://www.atlassian.com/agile/kanban/boards (accessed Jan. 05, 2022).
+[1.71]	“Escape Artist - International Strategies For The Globally Minded.” https://www.escapeartist.com/ (accessed Sep. 09, 2021).
+[1.72]	“Hello World · GitHub Guides.” https://guides.github.com/activities/hello-world/ (accessed Sep. 09, 2021).
+[1.73]	“Download,” NV Access, Jul. 05, 2017. https://www.nvaccess.org/download/ (accessed Sep. 09, 2021).
+[1.74]	“Live Server - Visual Studio Marketplace.” https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer (accessed Sep. 09, 2021).
+[1.75]	“VS Code Live Server – How to Auto-Refresh Your Browser with this Simple Extension.” https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/ (accessed Sep. 09, 2021).
+[1.76]	“[Deprecated] Debugger for Chrome - Visual Studio Marketplace.” https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome (accessed Sep. 09, 2021).
+[1.77]	“Setting up JavaScript Debugging in Visual Studio Code | by Matthew MacDonald | Young Coder | Medium.” https://medium.com/young-coder/setting-up-javascript-debugging-in-visual-studio-code-6c5005529987 (accessed Sep. 09, 2021).
+[1.78]	“Git - Installing Git.” https://git-scm.com/book/en/v2/Getting-Started-Installing-Git (accessed Sep. 09, 2021).
+[1.79]	“Join GitHub · GitHub.” https://github.com/join (accessed Sep. 09, 2021).
+[1.80]	“Start a new git repository.” https://kbroman.org/github_tutorial/pages/init.html (accessed Sep. 09, 2021).
