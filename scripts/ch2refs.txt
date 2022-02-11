@@ -1,0 +1,30 @@
+[2.1]	whatwg.org, “HTML Standard,” HTML Living Standard, Feb. 11, 2022. https://html.spec.whatwg.org/ (accessed Feb. 11, 2022).
+[2.2]	W3C, “Cascading Style Sheets,” World Wide Web Cosortium, 2021. https://www.w3.org/Style/CSS/Overview.en.html (accessed Feb. 11, 2022).
+[2.3]	Pluralsight, “Celebrating 25 Years of JavaScript,” JavaScript.com. https://www.javascript.com/ (accessed Jun. 23, 2021).
+[2.4]	“Bootstrap,” Build fast, responsive sites with Bootstrap. https://getbootstrap.com/ (accessed Feb. 11, 2022).
+[2.5]	“HTML Input Types.” https://www.w3schools.com/html/html_form_input_types.asp (accessed Feb. 11, 2022).
+[2.6]	moz://a, “Introduction to the DOM - Web APIs,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction (accessed Feb. 11, 2022).
+[2.7]	moz://a, “The box model - Learn web development,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model (accessed Feb. 11, 2022).
+[2.8]	C. Coyier, “A Complete Guide to Flexbox,” CSS-TRICKS, Apr. 07, 2021. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (accessed Jun. 15, 2021).
+[2.9]	C. Coyier, “How many CSS properties are there?,” CSS-Tricks, Jan. 14, 2020. https://css-tricks.com/how-many-css-properties-are-there/ (accessed Feb. 11, 2022).
+[2.10]	“CSS Colors,” w3schools. https://www.w3schools.com/cssref/css_colors.asp (accessed Feb. 11, 2022).
+[2.11]	“CSS Web Safe Fonts,” w3schools. https://www.w3schools.com/cssref/css_websafe_fonts.asp (accessed Feb. 11, 2022).
+[2.12]	“Stack Overflow - Where Developers Learn, Share, & Build Careers,” Stack Overflow. https://stackoverflow.com/ (accessed Feb. 11, 2022).
+[2.13]	“html - How to make div appear in front of another?,” Stack Overflow. https://stackoverflow.com/questions/5480639/how-to-make-div-appear-in-front-of-another (accessed Feb. 11, 2022).
+[2.14]	“CSS position property,” w3schools. https://www.w3schools.com/cssref/pr_class_position.asp (accessed Feb. 11, 2022).
+[2.15]	A. Newman, “StackOverflow listed the most commonly used programming languages | Learnworthy.net,” Learn Worthy, Mar. 01, 2020. https://learnworthy.net/stackoverflow-listed-the-most-commonly-used-programming-languages/ (accessed Feb. 11, 2022).
+[2.16]	“JavaScript Versions: ES6 and Before,” Codecademy. https://www.codecademy.com/article/javascript-versions (accessed Feb. 11, 2022).
+[2.17]	“JavaScript ES6,” w3schools. https://www.w3schools.com/js/js_es6.asp (accessed Feb. 11, 2022).
+[2.18]	“JavaScript With Syntax For Types.,” typescriptlang.org. https://www.typescriptlang.org/ (accessed Feb. 11, 2022).
+[2.19]	“Difference between TypeScript and ES6 - javatpoint,” www.javatpoint.com. https://www.javatpoint.com/typescript-vs-es6 (accessed Feb. 11, 2022).
+[2.20]	“CodePen,” codepen.io. https://codepen.io/ (accessed Feb. 11, 2022).
+[2.21]	“HTML Tutorial,” w3schools. https://www.w3schools.com/html/default.asp (accessed Feb. 11, 2022).
+[2.22]	“HTML Exercises,” w3schools. https://www.w3schools.com/html/html_exercises.asp (accessed Feb. 11, 2022).
+[2.23]	“CSS Tutorial,” w3schools. https://www.w3schools.com/css/default.asp (accessed Feb. 11, 2022).
+[2.24]	“CSS Exercises,” w3schools. https://www.w3schools.com/css/css_exercises.asp (accessed Feb. 11, 2022).
+[2.25]	“JavaScript Tutorial,” w3schools. https://www.w3schools.com/js/ (accessed Feb. 11, 2022).
+[2.26]	“JavaScript Exercises,” w3schools. https://www.w3schools.com/js/js_exercises.asp (accessed Feb. 11, 2022).
+[2.27]	“Live Server - Visual Studio Marketplace.” https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer (accessed Sep. 08, 2021).
+[2.28]	S. Chacon and B. Straub, “Git - Installing Git,” in Pro Git, 2014. Accessed: Feb. 11, 2022. [Online]. Available: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+[2.29]	S. Chacon and B. Straub, “Git Basics - Getting a Git Repository,” in Pro Git, 2014. Accessed: Feb. 11, 2022. [Online]. Available: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+[2.30]	E. Leytush, “Pushing your first project to github,” Gist. https://gist.github.com/mindplace/b4b094157d7a3be6afd2c96370d39fad (accessed Feb. 11, 2022).
