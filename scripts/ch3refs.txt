@@ -2,46 +2,26 @@
 [3.2]	N. Schaffendorf, “How to Choose Website Colour Schemes,” WebsiteSetup, Dec. 18, 2020. https://websitesetup.org/website-color-schemes/ (accessed Jun. 10, 2021).
 [3.3]	Google, “Tabs,” Material Design. https://material.io/components/tabs (accessed Jun. 21, 2021).
 [3.4]	N. Barry, “How to use icons to Support Content in Web Design,” Smashing Magazine, Mar. 03, 2009. Accessed: Jun. 11, 2021. [Online]. Available: https://www.smashingmagazine.com/2009/03/how-to-use-icons-to-support-content-in-web-design/
-[3.5]	C. Hundhausen, SpeedScore Source Code. 2021. Accessed: Jun. 11, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore-book/
+[3.5]	C. Hundhausen, SpeedScore Source Code. 2021. Accessed: Jun. 11, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore/
 [3.6]	“Git Feature Branch Workflow,” Atlassian Bitbucket. https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow (accessed Jun. 11, 2021).
 [3.7]	S. Chacon and  en Straub, “2.6 Git Basics - Tagging,” in Pro Git, 2nd ed., Apress, 2014. [Online]. Available: https://git-scm.com/book/en/v2/Git-Basics-Tagging
 [3.8]	“What’s a ‘detached HEAD’ in Git?,” Tower. https://www.git-tower.com/learn/git/faq/detached-head-when-checkout-commit/ (accessed Jun. 13, 2021).
-[3.9]	R. Dey, Live Server. 2019. Accessed: Jun. 13, 2021. [Online]. Available: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+[3.9]	R. Dey, Live Server. 2019. Accessed: Jun. 13, 2021. [Visual Studio Code]. Available: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 [3.10]	Font Awesome. https://fontawesome.com (accessed Jun. 15, 2021).
 [3.11]	“bars,” Font Awesome. https://fontawesome.com/v5.15/icons/bars (accessed Jun. 15, 2021).
 [3.12]	“search,” Font Awesome. https://fontawesome.com/v5.15/icons/search (accessed Jun. 15, 2021).
 [3.13]	“All 1,609 Awesome Icons,” Font Awesome. https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free (accessed Jun. 15, 2021).
 [3.14]	C. Coyier, “A Complete Guide to Flexbox,” CSS-TRICKS, Apr. 07, 2021. https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (accessed Jun. 15, 2021).
 [3.15]	moz://a, “Using CSS Custom Properties (Variables),” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties (accessed Jun. 15, 2021).
-[3.16]	moz://a, “Semantics,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Glossary/Semantics (accessed Jun. 15, 2021).
-[3.17]	moz://a, “HTML5,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Glossary/HTML5 (accessed Jun. 15, 2021).
-[3.18]	moz://a, “ARIA,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA (accessed Jun. 15, 2021).
-[3.19]	moz://a, “Using ARIA: Roles, States, and Properties,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques (accessed Jun. 15, 2021).
-[3.20]	moz://a, “WAI-ARIA Roles,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles (accessed Jun. 15, 2021).
-[3.21]	W3C, “6. Supported States and Properties,” Accessible Rich Internet Applications (WAI-ARIA) 1.0. https://www.w3.org/TR/wai-aria-1.0/states_and_properties (accessed Jun. 15, 2021).
-[3.22]	W3C, “ARIA in HTML,” W3C Working Draft, Jun. 11, 2021. https://www.w3.org/TR/html-aria/ (accessed Jun. 15, 2021).
-[3.23]	“HTML Sectioning Elements: ARIA Landmarks Example.” https://www.w3.org/TR/wai-aria-practices/examples/landmarks/HTML5.html (accessed Aug. 22, 2021).
-[3.24]	“Skip Navigation Links,” WebAIM (Web Accessibility in Mind), Oct. 25, 2013. https://webaim.org/techniques/skipnav/ (accessed Jun. 15, 2021).
-[3.25]	moz://a, “<button>: The Button Element,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button (accessed Jun. 15, 2021).
-[3.26]	W3C Working Group, “Example of Tabs with Manual Activation,” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/tabs/tabs-2/tabs.html (accessed Jun. 16, 2021).
-[3.27]	M. King, J. Jemma Ku, J. Nurthen, Z. Bijl, and M. Cooper, Eds., “WAI-ARIA Authoring Practices 1.1.” W3C Working Group, Aug. 14, 2019. Accessed: Jun. 17, 2021. [Online]. Available: https://www.w3.org/TR/wai-aria-practices-1.1/
-[3.28]	R. Satish Peri, “WAI-ARIA: Role=Tablist,” Digital A11Y. https://www.digitala11y.com/tablist-role/ (accessed Jun. 21, 2021).
-[3.29]	moz://a, “tabindex,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex (accessed Jun. 21, 2021).
-[3.30]	“W3 Schools How To,” w3schools.com: The World’s Largest Web Developer Site. https://www.w3schools.com/howto/default.asp (accessed Jun. 21, 2021).
-[3.31]	D. Lembree, “Proper Use of Buttons and Links,” WebAxe: Blog and Podcast on Web Accessibility, Sep. 07, 2014. http://www.webaxe.org/proper-use-buttons-links/ (accessed Jun. 21, 2021).
-[3.32]	“The Anchor Button: Bad for Accessibility, Bad for Usability,” It’s Tired in Here, Aug. 16, 2014. http://itstiredinhere.blogspot.com/2014/08/the-anchor-button-bad-for-accessibility.html (accessed Jun. 21, 2021).
-[3.33]	M. Sutton, “Links vs. Buttons in Modern Web Applications,” MarcySutton.com, Jul. 09, 2016. https://marcysutton.com/links-vs-buttons-in-modern-web-applications (accessed Jun. 21, 2021).
-[3.34]	W3C Working Group, “Actions Menu Button Example Using element.focus(),” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions.html (accessed Jun. 18, 2021).
-[3.35]	moz://a, “using the arial-labelledby attribute,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-labelledby_attribute (accessed Jun. 18, 2021).
-[3.36]	moz://a, “Pseudo-classes,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes (accessed Jun. 21, 2021).
-[3.37]	moz://a, “HTMLImageElement.align,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/align (accessed Jun. 20, 2021).
-[3.38]	moz://a, “<main>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main (accessed Jun. 20, 2021).
-[3.39]	moz://a, “ARIA: Main Role,” MD. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Main_role (accessed Jun. 20, 2021).
-[3.40]	Google, “Buttons: Floating Action Button,” Material Design. https://material.io/components/buttons-floating-action-button (accessed Jun. 20, 2021).
-[3.41]	“calendar-plus,” Font Awesome. https://fontawesome.com/v5.15/icons/calendar-plus (accessed Jun. 21, 2021).
-[3.42]	“HTML Entities,” w3schools.com: The World’s Largest Web Developer Site. https://www.w3schools.com/html/html_entities.asp (accessed Jun. 21, 2021).
-[3.43]	Google, “Extended FAB,” Material Design. https://material.io/components/buttons-floating-action-button#extended-fab (accessed Jun. 21, 2021).
-[3.44]	“NV Access Download,” NV Access. https://www.nvaccess.org/download/ (accessed Jun. 21, 2021).
-[3.45]	“Use accessibility features on Mac,” Apple Support. https://support.apple.com/guide/mac-help/use-accessibility-features-mh35884/mac (accessed Aug. 27, 2021).
-[3.46]	C. Hundhausen, Chapter 3 Companion Code. 2021. Accessed: Jun. 21, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore-book/tree/ch3
-[3.47]	Google, “Bottom Navigation,” Material Design. https://material.io/components/bottom-navigation (accessed Jun. 21, 2021).
+[3.16]	“WebAIM: Contrast and Color Accessibility - Understanding WCAG 2 Contrast and Color Requirements,” WebAIM: web accessibility in mind, Jan. 09, 2021. https://webaim.org/articles/contrast/ (accessed Feb. 12, 2022).
+[3.17]	moz://a, “Semantics,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Glossary/Semantics (accessed Jun. 15, 2021).
+[3.18]	moz://a, “HTML5,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Glossary/HTML5 (accessed Jun. 15, 2021).
+[3.19]	moz://a, “ARIA,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA (accessed Jun. 15, 2021).
+[3.20]	moz://a, “Using ARIA: Roles, States, and Properties,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques (accessed Jun. 15, 2021).
+[3.21]	moz://a, “WAI-ARIA Roles,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles (accessed Jun. 15, 2021).
+[3.22]	W3C, “6. Supported States and Properties,” Accessible Rich Internet Applications (WAI-ARIA) 1.0. https://www.w3.org/TR/wai-aria-1.0/states_and_properties (accessed Jun. 15, 2021).
+[3.23]	W3C, “ARIA in HTML,” W3C Working Draft, Jun. 11, 2021. https://www.w3.org/TR/html-aria/ (accessed Jun. 15, 2021).
+[3.24]	“HTML Sectioning Elements: ARIA Landmarks Example.” https://www.w3.org/TR/wai-aria-practices/examples/landmarks/HTML5.html (accessed Aug. 22, 2021).
+[3.25]	“Skip Navigation Links,” WebAIM (Web Accessibility in Mind), Oct. 25, 2013. https://webaim.org/techniques/skipnav/ (accessed Jun. 15, 2021).
+[3.26]	moz://a, “<button>: The Button Element,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button (accessed Jun. 15, 2021).
+[3.27]	C. Hundhausen, Chapter 3 Companion Code. 2021. Accessed: Jun. 21, 2021. [Online]. Available: https://github.com/FSWebDevBook/speedscore-book/tree/ch3
