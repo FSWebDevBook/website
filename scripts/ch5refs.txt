@@ -35,10 +35,12 @@
 [5.35]	moz://a, “Document: Keydown Event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event (accessed Jun. 26, 2021).
 [5.36]	moz:lla, “KeyboardEvent.code,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code
 [5.37]	moz:lla, “Document.activeElement,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Document/activeElement (accessed Jun. 26, 2021).
-[5.38]	“Are Global Variables Bad?,” Stack Overflow, Jan. 27, 2009. https://stackoverflow.com/questions/484635/are-global-variables-bad (accessed Jun. 30, 2021).
-[5.39]	“How to Avoid Global Variables in JavaScript?,” Stack Overflow, Dec. 03, 2009. https://stackoverflow.com/questions/1841916/how-to-avoid-global-variables-in-javascript (accessed Jun. 30, 2021).
-[5.40]	moz://a, “HTMLElement.focus,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/focus (accessed Jun. 30, 2021).
-[5.41]	“Is There an Expression Using Modulo To Do Backwards Wrap-Around (‘Reverse Overflow’)?,” Stack Overflow, Feb. 09, 2013. https://stackoverflow.com/questions/14785443/is-there-an-expression-using-modulo-to-do-backwards-wrap-around-reverse-overfl (accessed Jun. 30, 2021).
-[5.42]	moz://a, ::“-moz-focus-inner,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-focus-inner (accessed Jun. 30, 2021).
-[5.43]	“CSS The !Important Rule,” w3schools.com: The World’s Largest Web Developer Site. https://www.w3schools.com/css/css_important.asp (accessed Jun. 30, 2021).
-[5.44]	C. Hundhausen, “FSWebDevBook/speedscore: A repository for the code developed in ‘Full Stack Web Development from the Ground Up,’” GitHub, 2022. https://github.com/FSWebDevBook/speedscore (accessed Feb. 21, 2022).
+[5.38]	J. Wulf, “Avoiding mutable global state in browser JS,” Medium, Feb. 25, 2020. https://medium.com/@sitapati/avoiding-mutable-global-state-in-browser-js-89437eaebaac (accessed Apr. 09, 2022).
+[5.39]	“React – A JavaScript library for building user interfaces.” https://reactjs.org/ (accessed Sep. 08, 2021).
+[5.40]	“JavaScript Immediately Invoked Function Expressions (IIFE) Explained,” JavaScript Tutorial. https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/ (accessed Apr. 09, 2022).
+[5.41]	moz://a, “HTMLElement.focus,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/focus (accessed Jun. 30, 2021).
+[5.42]	“Is There an Expression Using Modulo To Do Backwards Wrap-Around (‘Reverse Overflow’)?,” Stack Overflow, Feb. 09, 2013. https://stackoverflow.com/questions/14785443/is-there-an-expression-using-modulo-to-do-backwards-wrap-around-reverse-overfl (accessed Jun. 30, 2021).
+[5.43]	moz://a, ::“-moz-focus-inner,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-focus-inner (accessed Jun. 30, 2021).
+[5.44]	“CSS The !Important Rule,” w3schools.com: The World’s Largest Web Developer Site. https://www.w3schools.com/css/css_important.asp (accessed Jun. 30, 2021).
+[5.45]	“How to Avoid Global Variables in JavaScript?,” Stack Overflow, Dec. 03, 2009. https://stackoverflow.com/questions/1841916/how-to-avoid-global-variables-in-javascript (accessed Jun. 30, 2021).
+[5.46]	C. Hundhausen, “FSWebDevBook/speedscore: A repository for the code developed in ‘Full Stack Web Development from the Ground Up,’” GitHub, 2022. https://github.com/FSWebDevBook/speedscore (accessed Feb. 21, 2022).

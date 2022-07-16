@@ -1,46 +1,13 @@
-[6.1]	“Glossary: Horizontal and Vertical Prototypes,” Usability First. https://www.usabilityfirst.com/glossary/horizontal-and-vertical-prototypes/index.html (accessed Jul. 09, 2021).
-[6.2]	A. Altvater, “What are CRUD Operations: How CRUD Operations Work, Examples, Tutorials & More,” Stackify, May 02, 2017. https://stackify.com/what-are-crud-operations/ (accessed Jul. 09, 2021).
-[6.3]	“Web Content Accessibility Guidelines (WCAG) 2.1,” w3.org, Jun. 05, 2018. https://www.w3.org/TR/WCAG21/ (accessed Jul. 13, 2021).
-[6.4]	moz://a, “<input>: The Input (Form Input) Element,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input (accessed Jul. 09, 2021).
-[6.5]	“HTML5 Basics For Everyone Tired Of Reading About Deprecated Code,” HTML.COM. https://html.com/html5/ (accessed Jul. 09, 2021).
-[6.6]	“Data Record,” Dictionary of Archives Terminology. https://dictionary.archivists.org/entry/data-record.html (accessed Jul. 11, 2021).
-[6.7]	moz://a, “<form>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form (accessed Jul. 11, 2021).
-[6.8]	moz://a, “<fieldset>: The Field Set element - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset (accessed Jul. 13, 2021).
-[6.9]	moz://a, “<legend> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend (accessed Jul. 13, 2021).
-[6.10]	moz://a, “<label> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label (accessed Jul. 13, 2021).
-[6.11]	“Question Pages,” GOV.UK Design System. https://design-system.service.gov.uk/patterns/question-pages/ (accessed Jul. 13, 2021).
-[6.12]	“HTML <input> Placeholder Attribute,” w3schools. https://www.w3schools.com/tags/att_input_placeholder.asp (accessed Jul. 11, 2021).
-[6.13]	E. Bailey, “Don’t Use the Placeholder Attribute,” Smashing Magazine, May 20, 2018. Accessed: Jul. 11, 2021. [6.Online]. Available: https://www.smashingmagazine.com/2018/06/placeholder-attribute/
-[6.14]	“HTML <input> value Attribute,” w3schools.com. https://www.w3schools.com/tags/att_input_value.asp (accessed Jul. 14, 2021).
-[6.15]	P. Laubheimer, “Preventing User Errors: Avoiding Unconscious Slips,” Nielsen Norman Group, Aug. 23, 2016. https://www.nngroup.com/articles/slips/ (accessed Jul. 11, 2021).
-[6.16]	“Provide Helpful Error Messages,” Digital Accessibility at Harvard University. https://accessibility.huit.harvard.edu/provide-helpful-error-messages (accessed Jul. 11, 2021).
-[6.17]	K. Kwiatek, “UX Principles: Constraints, Discoverability, Feedback, and More,” Zivtech, Mar. 19, 2019. https://www.zivtech.com/blog/ux-principles-constraints-discoverability-feedback-and-more (accessed Jul. 11, 2021).
-[6.18]	moz://a, “<input type=”date”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date (accessed Jul. 12, 2021).
-[6.19]	moz://a, “Constraint Validation Process,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation#constraint_validation_process (accessed Jul. 12, 2021).
-[6.20]	moz://a, “HTMLFormElement: Submit Event,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event (accessed Jul. 11, 2021).
-[6.21]	moz://a, “Using Built-In Form Validation,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#using_built-in_form_validation (accessed Jul. 12, 2021).
-[6.22]	moz://a, “Regular Expressions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions (accessed Jul. 12, 2021).
-[6.23]	G. Skinner, RegExr.com. https://regexr.com/ (accessed Jul. 12, 2021).
-[6.24]	moz://a, “<input type=”url”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/url (accessed Jul. 12, 2021).
-[6.25]	moz://a, “<input type=”email”>,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/email (accessed Jul. 12, 2021).
-[6.26]	moz://a, :“invalid - CSS: Cascading Style Sheets | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/:invalid (accessed Jul. 12, 2021).
-[6.27]	“WebAIM: Usable and Accessible Form Validation and Error Recovery,” WebAIM (Web Accessibility in Mind). https://webaim.org/techniques/formvalidation/ (accessed Jul. 13, 2021).
-[6.28]	“Recover from validation errors,” GOV.UK Design System. https://design-system.service.gov.uk/patterns/validation/ (accessed Jul. 13, 2021).
-[6.29]	“Bootstrap.” https://getbootstrap.com/ (accessed Jul. 16, 2021).
-[6.30]	M. Otto, “Building Twitter Bootstrap,” A List Apart, Jan. 17, 2012. https://alistapart.com/article/building-twitter-bootstrap/ (accessed Jul. 24, 2021).
-[6.31]	“Spacing.” https://getbootstrap.com/docs/4.4/utilities/spacing/ (accessed Jul. 16, 2021).
-[6.32]	“Forms.” https://getbootstrap.com/docs/4.0/components/forms/ (accessed Jul. 16, 2021).
-[6.33]	moz://a, “ValidityState - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/ValidityState (accessed Jul. 20, 2021).
-[6.34]	“Google.” https://www.google.com/ (accessed Jul. 20, 2021).
-[6.35]	“Facebook - Log In or Sign Up,” Facebook. https://www.facebook.com/ (accessed Jul. 20, 2021).
-[6.36]	“Sign in to GitHub,” GitHub. https://github.com (accessed Jul. 20, 2021).
-[6.37]	“Apple Store Online,” Apple. https://www.apple.com/shop (accessed Jul. 20, 2021).
-[6.38]	“Buttons.” https://getbootstrap.com/docs/4.0/components/buttons/ (accessed Jul. 20, 2021).
-[6.39]	“Navs.” https://getbootstrap.com/docs/4.0/components/navs/ (accessed Jul. 20, 2021).
-[6.40]	“Modal,” Bootstrap 6.0. https://getbootstrap.com/docs/6.0/components/modal/ (accessed Jul. 21, 2021).
-[6.41]	moz://a, “<input type=”file”> - HTML: HyperText Markup Language | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file (accessed Jul. 23, 2021).
-[6.42]	moz://a, “File - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/File (accessed Jul. 23, 2021).
-[6.43]	“Modal Dialog Example,” WAI ARIA Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html (accessed Jul. 06, 2021).
-[6.44]	“Toast Notifications | PatternFly,” PatternFly. https://www.patternfly.org/v3/pattern-library/communication/toast-notifications/index.html (accessed Jul. 23, 2021).
-[6.45]	moz://a, “Node.contains() - Web APIs | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/API/Node/contains (accessed Jul. 24, 2021).
-[6.46]	“Toasts,” Get Bootstrap. https://getbootstrap.com/docs/6.0/components/toasts/ (accessed Jul. 24, 2021).
+[6.1]	W3C Working Group, “Example of Tabs with Manual Activation,” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/tabs/tabs-2/tabs.html (accessed Jun. 16, 2021).
+[6.2]	“JavaScript Immediately Invoked Function Expressions (IIFE) Explained,” JavaScript Tutorial. https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/ (accessed Apr. 09, 2022).
+[6.3]	moz://a, “Arrow Function Expressions,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions (accessed Jul. 01, 2021).
+[6.4]	“Is There an Expression Using Modulo To Do Backwards Wrap-Around (‘Reverse Overflow’)?,” Stack Overflow, Feb. 09, 2013. https://stackoverflow.com/questions/14785443/is-there-an-expression-using-modulo-to-do-backwards-wrap-around-reverse-overfl (accessed Jun. 30, 2021).
+[6.5]	T. Fessenden, “Modal & Nonmodal Dialogs: When (& When Not) to Use Them,” Nielsen Norman Group, Apr. 23, 2017. https://www.nngroup.com/articles/modal-nonmodal-dialog/ (accessed Jul. 06, 2021).
+[6.6]	“Modal Dialog Example,” WAI ARIA Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/examples/dialog-modal/dialog.html (accessed Jul. 06, 2021).
+[6.7]	M. King, J. Jemma Ku, J. Nurthen, Z. Bijl, and M. Cooper, Eds., “WAI-ARIA Authoring Practices 1.1.” W3C Working Group, Aug. 14, 2019. Accessed: Jun. 17, 2021. [Online]. Available: https://www.w3.org/TR/wai-aria-practices-1.1/
+[6.8]	moz://a, “pointer-events - CSS: Cascading Style Sheets | MDN,” MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events (accessed Apr. 08, 2022).
+[6.9]	“Glossary: Horizontal and Vertical Prototypes,” Usability First. https://www.usabilityfirst.com/glossary/horizontal-and-vertical-prototypes/index.html (accessed Jul. 09, 2021).
+[6.10]	“Design Patterns and Widgets,” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices-1.1/#aria_ex (accessed Jul. 07, 2021).
+[6.11]	“How to Avoid Global Variables in JavaScript?,” Stack Overflow, Dec. 03, 2009. https://stackoverflow.com/questions/1841916/how-to-avoid-global-variables-in-javascript (accessed Jun. 30, 2021).
+[6.12]	C. Hundhausen, “FSWebDevBook/speedscore-book (ch4 branch),” GitHub. https://github.com/FSWebDevBook/speedscore-book/tree/ch4 (accessed Jul. 07, 2021).
+[6.13]	W3C ARIA Working Group, “Actions Menu Button Example using element.focus(),” WAI-ARIA Authoring Practices 1.1, Aug. 14, 2019. https://www.w3.org/TR/wai-aria-practices/examples/menu-button/menu-button-actions.html (accessed Jun. 26, 2021).
