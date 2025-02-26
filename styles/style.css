@@ -1,8 +1,33 @@
+
+:root {
+    --heading-font: 'Montserrat', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: var(--heading-font);
+    text-align: center;
+    color: #333;
+}
+
+p {
+    font-family: var(--body-font);
+    text-align: center;
+    color: #444;
+}
+
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.left {
+    text-align: left !important; /* Override the center alignment */
+    margin: 1rem 0;
+    max-width: 65ch; /* Maintain readable line length */
+    line-height: 1.6;
 }
 
 h1, h2, h3, p {
@@ -17,4 +42,98 @@ h1, h2, h3, p {
 .redirect {
     font-style: italic;
     color: blue;
+}
+
+/* ...existing code... */
+
+.container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.image-section {
+    flex: 1 1 auto;
+    max-width: 40%;
+    min-width: 300px;  /* Ensures book doesn't get too small */
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-height: 90vh;  /* Prevents image from being taller than viewport */
+    object-fit: contain;
+}
+
+.content-section {
+    flex: 1 1 auto;
+    max-width: 60%;  /* Ensures text doesn't stretch too wide */
+    padding: 0 1rem;
+    overflow-wrap: break-word;  /* Prevents text from overflowing horizontally */
+}
+
+/* For consistent content width */
+.content-section p, 
+.content-section h3, 
+.author-section {
+    max-width: 65ch;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.author-section {
+    position: relative;
+    overflow: hidden;
+    margin-top: 0;
+    padding: 0;  /* Explicitly remove padding */
+    width: 100%;  /* Ensure full width within constraints */
+}
+
+.author-image {
+    float: right;
+    max-width: 100px;
+    height: auto;
+    margin: 1.6rem 0 1rem 1.5rem; /* Top margin matches first line of text */
+    border-radius: 4px;
+}
+
+.author-text {
+    font-size: 0.9rem;
+    margin: 1rem 0;
+    line-height: 1.5;
+    padding: 0;  /* Remove any padding */
+    width: 100%;  /* Ensure full width */
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .image-section {
+        max-width: 80%;
+        min-width: 250px;
+        margin-bottom: 2rem;
+    }
+    
+    .content-section {
+        max-width: 90%;
+    }
+    
+    .author-section {
+        max-width: 90%;
+        padding: 0;
+    }
+    
+    .author-image {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+    }
 }

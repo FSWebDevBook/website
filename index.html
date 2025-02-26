@@ -2,24 +2,55 @@
 <html>
   <head> 
       <link rel="stylesheet" href="styles/style.css">
-  </head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    </head>
   <body>
     <h1 id="redirect" class="redirect" hidden>Redirecting to book reference <span id="refId"></span>...</h1>
-     <h1 id="nFound" class="nFound" hidden>Sorry, that reference was not found.</h1>
-     <h1><i>Full Stack Web Development from the Ground Up:<br/>Principles, Practices, and Technologies</i></h1>
-     <img src="images/Book-Logo-5.png" alt="Book logo" class="center">
-     <h2>By Chris Hundhausen</h3>
-     <h2>Professor of Computer Science</body<h3>
-     <h2>Oregon State University</h3>
-     <p>Forthcoming textbook to be published by Morgan Kaufmann</p>
-     <script src="scripts/refmap.js"></script>
-     <script src="scripts/ch1refs.js"></script>
-     <script src="scripts/ch2refs.js"></script>
-     <script src="scripts/ch3refs.js"></script>
-     <script src="scripts/ch4refs.js"></script>
-     <script src="scripts/ch5refs.js"></script>
-     <script src="scripts/ch6refs.js"></script>
-     <script src="scripts/ch7refs.js"></script>
-     <script src="scripts/main.js"></script>
+    <h1 id="nFound" class="nFound" hidden>Sorry, that reference was not found.</h1>
+    <div class="container">
+      <div class="image-section">
+        <img src="images/Book-Cover.jpg" alt="Book Cover with Cheetah on black background">
+      </div>
+      <div class="content-section">
+        <h3><i>A New Undergraduate Textbook Coming in 2025</i></h3>
+        <p class="left">Web development has become one of the most relevant and highly sought after skills in the software industry today. 
+          <i>Full Stack Web Web Development from the Ground Up: Principes, Practices, and Technologies</i> presents a 
+          systematic and modern treatment of this core area of software development, starting with the fundamentals of 
+          front-end development using HTML, CSS, and JavaScript; moving to front-end development with React; and culminating in 
+          server-side development using Express.js, Node.js, and MongoDB.</p>
+          <p class="left">While the book uses the modern and widely adopted MERN stack (MongoDB, Express.js, React.js, and Node.js) to
+              explore web development, its emphasis is not on the specific technologies themselves, but rather on underlying
+              concepts, principles, and best practices that transcend any particular tehcnology stack. This approach
+              lays a solid foundation for students to become curious, relective, and proficient web developers who can adapt to the rapidly
+              changing landscape of web development technologies and practices.</p>
+       <p class="left">For more information, view the <a href="docs/Preface.pdf">preface</a> and <a href="docs/BookOutline.pdf">table of contents.</a></p>
+       <h3>About the Author</h3>
+       <div class="author-section">
+        <img src="images/Chris.jpg" alt="Chris Hundhausen" class="author-image">
+        <p class="left author-text">Chris Hundhausen is a professor of computer science and Associate Head for Online Programs in 
+          the School of Electrical Engineering and Computer Science at Oregon State University. He has been an
+          active researcher in computing education research since the 1990s, specializing in algorithm
+          visualization, studio-based learning, social learning environments, and software engineering education.  
+          In 2017, Chris Hundhausen embarked on a sabbatical 
+          as a professional web developer. His focus was to develop a 
+          full-stack web application for speedgolf, an international
+          sport which combines running and golf. He traveled to 
+          speedgolf tournaments around the world to deploy SpeedScore
+          and collect data on its use. The sabbatical kindled Chris's
+          passion for web development and planted the seeds for this 
+          book.</p>
+      </div>
+    </div>
+    <script src="scripts/refmap.js"></script>
+    <script src="scripts/ch1refs.js"></script>
+    <script src="scripts/ch2refs.js"></script>
+    <script src="scripts/ch3refs.js"></script>
+    <script src="scripts/ch4refs.js"></script>
+    <script src="scripts/ch5refs.js"></script>
+    <script src="scripts/ch6refs.js"></script>
+    <script src="scripts/ch7refs.js"></script>
+    <script src="scripts/main.js"></script>
   </body>
-</html>
